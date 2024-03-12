@@ -1,0 +1,17 @@
+p {
+    font-family: 'Arial';
+    
+}
+table{
+    width: 400px; 
+    height: 60px; 
+}
+
+th{
+    background: #fffefe; 
+}
+td, th{
+
+    padding: 7px; 
+    text-align: center ; 
+}
